@@ -1,0 +1,55 @@
+﻿o Theme - 8 teen
+
+* Installation
+* User Signup Verification
+* API Upload
+* General Stats
+* API Stats
+* Installation
+* Updates Check
+* 2 Free Themes
+* Photo Messages
+* Image Editor
+
+- Static Site Generation (offline)
+- Store
+- Nodes
+- Content Engine - TYPING
+- List View in Net Drive
+
+√ Boards
+√ Apps / Plugins
+√ Content Engine - DOWNLOAD
+√ Mail Security Code when Sign Up
+√ (WhileEditing) include custom JS Files 
+√ Page Settings
+√ Data API Download
+√ Check only theme specific page loading in mainstream
+√ Notifications
+√ Messaging System
+√ CONTENT ENGINE
+√	-EDIT
+√	-INSERT
+√		-TYPING
+√	-VIEW
+√	-DELETE
+√	-PERMISSIONS
+√	-API
+√		-QUERIES
+√		-KEYS
+√ Site Settings
+√ User Settings
+√ User Settings Profile Picture
+√ Theme Settings
+√ Search
+√ Unique Page Routes
+√ Menu
+√ Content Tools Image Uploader
+√ Page Categories
+
+
+$ Important
+o In Development / To be developed
+* Not in Development, for future considerations
+- Not in Development, not for consideration
+√ Completed Tasks
